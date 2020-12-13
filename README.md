@@ -1,3 +1,3 @@
 # meny233.github.io
 menystudio
-GNU Listen
+GPL-3.0 License
